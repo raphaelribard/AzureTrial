@@ -1,0 +1,2 @@
+# AzureTrial
+Repo_for_a_Data_factory_Trial
